@@ -1,9 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It Contain 2 type games 
+1 Rolldices 
+2 Coin Flip (Head/Tail)
+3 LottoBall (6 balls contain random number) 
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
