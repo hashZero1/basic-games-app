@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 It Contain 2 type games 
-1 Rolldices 
-2 Coin Flip (Head/Tail)
-3 LottoBall (6 balls contain random number) 
+Rolldices,  
+ Coin Flip (Head/Tail),
+ LottoBall (6 balls contain random number),   
 In the project directory, you can run:
 
 ### `npm start`
