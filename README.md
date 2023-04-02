@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-It Contain 2 type games 
+It Contain 3 types game 
 Rolldices,  
  Coin Flip (Head/Tail),
  LottoBall (6 balls contain random number),   
