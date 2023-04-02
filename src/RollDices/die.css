@@ -1,0 +1,55 @@
+.Rolldie {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Dies {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.Die {
+    font-size: 10em;
+    padding: 10px;
+    margin: 20px;
+    color: slateblue;
+}
+
+.Die-button {
+    background-color: slateblue;
+    padding: 18px 40px;
+    width: 15em;
+    border: none;
+    border-radius: 10px;
+    color: aliceblue;
+
+    transition: all 0.4s;
+    cursor: pointer;
+}
+
+.Die-button:hover {
+    background-color: rgb(43, 43, 43);
+}
+
+.rolling {
+    animation-name: rotate;
+    animation-duration: 1s;
+}
+
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg) scale(0%);
+    }
+
+    100% {
+        transform: rotate(360deg) scale(100%);
+    }
+
+    0% {
+        transform: rotate(0deg) scale(0%);
+    }
+}

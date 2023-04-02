@@ -1,0 +1,33 @@
+.Ball {
+    background-color: slateblue;
+    border-radius: 50%;
+    color: aliceblue;
+    display: inline-block;
+    width: 3em;
+    height: 2.25em;
+    padding-top: 0.75em;
+    text-align: center;
+    margin-right: 0.5em;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.Lottoball {
+    text-align: center;
+}
+
+.Ball-button {
+    background-color: slateblue;
+    margin-top: 50px;
+    padding: 18px 40px;
+    width: 15em;
+    border: none;
+    border-radius: 10px;
+    color: aliceblue;
+    transition: background-color, 0.4s;
+    cursor: pointer;
+}
+
+.Ball-button:hover {
+    background-color: rgb(43, 43, 43);
+}
