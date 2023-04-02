@@ -1,9 +1,7 @@
 # Getting Started with Create React App
 
-It Contain 3 types game 
-Rolldices,  
- Coin Flip (Head/Tail),
- LottoBall (6 balls contain random number)
+It Contain 3 type of games 
+Rolldices, Coin Flip (Head/Tail), LottoBall (6 balls contain random number)
 
 ## Available Scripts   
 In the project directory, you can run:
